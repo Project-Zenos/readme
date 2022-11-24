@@ -4,7 +4,7 @@ Project Zenos is an attempt to make programs Fully Undetected (FUD) and make it 
 
 # How to help
 
-You can contribute to the project by adding me on discord: Xethor#6430 or by joining the discord server!
+You can contribute to the project by adding me on discord: s9v#3832 or by joining the discord server!
 https://discord.gg/bW63qprjbG
 
 # What to do if you find a vulnerability
